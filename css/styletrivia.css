@@ -1,0 +1,39 @@
+#informacion{
+  width:500px;
+  margin: 0 auto;
+}
+  
+form{
+  width:47s8px;
+  border:1px solid #ddd;
+  padding:10px;
+  float:left;
+}
+  
+form label{
+  width:100%;
+  float:left;
+  margin: 5px 0;
+}
+  
+form input{
+  float:left;
+  margin: 5px 0;
+}
+  
+ul{
+  width:200px;
+  float:left;
+  border:1px solid #ddd;
+  margin:5px;
+  padding:10px;
+  list-style-type: none;
+}
+  
+li{
+  margin:5px 0;
+  background:#ddd;
+  cursor:move;
+  padding:5px;
+  list-style-type: none;
+}
